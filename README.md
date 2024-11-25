@@ -33,5 +33,5 @@ JDK11
 2. 生成用户名列表文件，执行`GithubNameCheckTest`类的`generateName`方法，等待执行完成。
 3. 根据用户名列表文件检验用户名是否可用，执行`GithubNameCheckTest`类的`checkName`方法，查看控制台或文件结果。
 
-# 参考
+# 参考项目
 https://github.com/able8/Available-Short-Github-Username
